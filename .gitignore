@@ -1,0 +1,8 @@
+# Ignore .env files
+*.env
+
+# Ignore venv directories
+LANGCHAIN/venv/*
+
+# Ignore vect directories
+VectorDB/vect/*
